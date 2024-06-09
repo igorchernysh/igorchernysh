@@ -1,4 +1,4 @@
-![Igor Chernysh](https://github.com/igorchernysh)
+[Igor Chernysh](https://github.com/igorchernysh)
 
 # Hi there 👋, I'm Igor Chernysh
 
