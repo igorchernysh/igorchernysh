@@ -15,6 +15,21 @@ I am an accomplished Infrastructure Engineer with over 20 years of experience sp
 - **Languages:** Bash, Powershell, Perl, Python
 - **Databases:** Postgresql, MySQL, Snowflake, MSSQL, Oracle, Vertica, DynamoDb, RedShift, Delphix
 
+## 🏢 Previous Employers
+
+#### [Tracer Labs](https://tracer.tech/)
+#### [Autonation](https://www.autonation.com/)
+#### [Mitel](https://www.mitel.com/)
+#### [WebMD](https://www.webmd.com/)
+#### [Epana Networks](https://www.linkedin.com/company/epana-networks/)
+#### [Register](https://www.register.com/)
+#### [Morgan Stanley](https://www.morganstanley.com/)
+#### [Dai-Ichi Kangyo Bank](https://en.wikipedia.org/wiki/Dai-Ichi_Kangyo_Bank)
+#### [Lucent Technologies](https://en.wikipedia.org/wiki/Lucent_Technologies)
+#### [Verizon](http://www.verizon.com/)
+#### [AT&T](https://www.att.com/)
+#### [IDT](https://www.idt.net/)
+
 ## 📫 How to Reach Me
 - **Email:** [igor@chernysh.com](mailto:igor@chernysh.com)
 - **LinkedIn:** [https://www.linkedin.com/in/chernysh](https://www.linkedin.com/in/chernysh)
