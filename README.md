@@ -14,25 +14,6 @@ I am an accomplished Infrastructure Engineer with over 20 years of experience sp
 - **Languages:** Bash, Powershell, Perl, Python
 - **Databases:** Postgresql, MySQL, Snowflake, MSSQL, Oracle, Vertica, DynamoDb, RedShift, Delphix
 
-## 🏆 Top Projects
-
-### 1. [Project Name](https://github.com/yourusername/projectname)
-- **Description:** A brief description of what the project does and the technologies used.
-- **Technologies:** List of technologies used in the project (e.g., Docker, Kubernetes, Jenkins, Python).
-
-### 2. [Project Name](https://github.com/yourusername/projectname)
-- **Description:** A brief description of what the project does and the technologies used.
-- **Technologies:** List of technologies used in the project (e.g., AWS, Terraform, Ansible, Go).
-
-### 3. [Project Name](https://github.com/yourusername/projectname)
-- **Description:** A brief description of what the project does and the technologies used.
-- **Technologies:** List of technologies used in the project (e.g., Azure, Kubernetes, Prometheus, Bash).
-
-## 📚 Recent Blog Posts
-- **[Blog Post Title](https://yourbloglink.com)** - A brief description of the blog post.
-- **[Blog Post Title](https://yourbloglink.com)** - A brief description of the blog post.
-- **[Blog Post Title](https://yourbloglink.com)** - A brief description of the blog post.
-
 ## 📫 How to Reach Me
 - **Email:** [igor@chernysh.com](mailto:igor@chernysh.com)
 - **LinkedIn:** [https://www.linkedin.com/in/chernysh](https://www.linkedin.com/in/chernysh)
